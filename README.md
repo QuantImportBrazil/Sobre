@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreCoutinhoBueno
-- 👀 I’m interested in to generate value by applying machine learning in the fertilizer and fuel markets with multiple variables
+- 👀 I’m interested in apply machine learning over data from the fertilizer and the fuel brazilian  markets, using multiples variables
 - 🌱 I’m currently learning about Github Pages
 - 💞️ I’m looking to collaborate on Brazilian Importers
 - 📫 How to reach me andrecoutinhobueno@hotmail.com
