@@ -1,21 +1,20 @@
-- 👋 Hi, I’m @AndreCoutinhoBueno
-- 👀 I’m interested in applying machine learning to predict the Brazilian fertilizer and fuel markets, using multiple variables, in order to support pricing stock activites .
+- 👋 Hi, I’m @AndreCoutinhoBueno, a data scientist with domain on agronomy, specially in fertilizer market.
+- 👀 I’m interested to collaborate with people or company interested in any datascience projetcs.
 - 🌱 I’m currently learning about GitHub Pages.
-- 💞️ I’m looking to collaborate with people or company interested in datascience.
 - 📫 How to reach me: andrecoutinhobueno@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love it!
 
 
-A seguir, do repositório [Pricing-Fertilizer](), serão selecionados e apresentados exemplos práticos onde o autor aplicou machine learning e outras ferramentas de ciência de dados, com objetivo de predizer desembarque de fertilizante importados pelo Brasil:
+Do meu repositório [Pricing-Fertilizer](), apresento a seguir alguns exemplos onde machine learning e conceitos de ciência de dados foram aplicados por mim.
 
 1-Bigdata handling and filetring
 
-2-Cluserization: indetify diferent products using the same id, porém com comportamento de mercado diferenciado.
+2-Cluserization: Indetify diferent products traded under the same international commerce code.
 
-3-Classificação: Prediz que conjunto de caractérísticas de importação irão ocorrer em determinado momento.
+3-Classificação: Prediz que conjunto de características de importação irão ocorrer em determinado momento.
 
-4-Regressão: predirá quantidade com maior densidade de probabilidade de ocorrer, além das respectivas medidas de dispersão. 
+4-Regressão: Determinrá quantidade, em peso ou valor, com a maior densidade de probabilidade de ser atinginda, além da medida de dispersão no em torno. 
 
 
 <!---
