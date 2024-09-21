@@ -1,24 +1,16 @@
-- 👋 Hi, I’m @AndreCoutinhoBueno, a data scientist with domain on agronomy, specially in fertilizer market.
-- 👀 I’m interested to collaborate with people or company interested in any datascience projetcs.
+- 👋 Hi, I’m @AndreCoutinhoBueno, a data scientist with expertise in agronomy, especially in the fertilizer market.
+- 👀 I’m interested in collaborating with people or companies on any data science projects.
 - 🌱 I’m currently learning about GitHub Pages.
->>>>>>> 2a0456b2ff1530e6e50a72a0354ae58daf25f742
 - 📫 How to reach me: andrecoutinhobueno@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love it!
 
+From my repository [Pricing-Fertilizer](https://andrecoutinhobueno.github.io/Pricing-Fertilizer/), here are some examples where I have applied machine learning and data science concepts:
 
-Do meu repositório [Pricing-Fertilizer](), apresento a seguir alguns exemplos onde machine learning e conceitos de ciência de dados foram aplicados por mim.
+1. Big data handling
 
-1-Bigdata handling
+2. Clustering: Identifying different products traded under the same international commerce code.
 
-2-Cluserization: Indetify diferent products traded under the same international commerce code.
+3. Classification: Predicting which set of import characteristics will occur at a given time.
 
-3-Classificação: Prediz que conjunto de características de importação irão ocorrer em determinado momento.
-
-4-Regressão: Determinrá quantidade, em peso ou valor, com a maior densidade de probabilidade de ser atinginda, além da medida de dispersão no em torno. 
-
-
-<!---
-AndreCoutinhoBueno/AndreCoutinhoBueno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+4. Regression: Determining the quantity, in weight or value, with the highest probability density, as well as the measure of dispersion around it.
