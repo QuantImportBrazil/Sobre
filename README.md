@@ -15,6 +15,8 @@ From my repository [Pricing-Fertilizer](https://andrecoutinhobueno.github.io/Pri
 
     [script](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/codes/extra%C3%A7%C3%A3o/Comexstat/IMP_NCM/Baixa_Extrai.ipynb)
 
+    In addition, another script was created so that updates only need to download the most recent part of the file, increasing processing speed.
+
     Conclusion:  
     The technique of reading in chunks offers an efficient solution for handling large ZIP files, significantly reducing memory usage and improving the performance and scalability of data processing. This approach allows systems with limited memory to process large volumes of data efficiently and flexibly, avoiding the issues associated with loading entire files into memory.
 
