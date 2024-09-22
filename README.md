@@ -5,7 +5,7 @@
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I love it!  
 
-From my repository Pricing-Fertilizer, here are some examples where I have applied machine learning and data science concepts:
+From my repository [Pricing-Fertilizer](https://andrecoutinhobueno.github.io/Pricing-Fertilizer/), here are some examples where I have applied machine learning and data science concepts:
 
 ### Handling Big Data:
 
