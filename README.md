@@ -32,7 +32,7 @@ From my repository [Pricing-Fertilizer](https://andrecoutinhobueno.github.io/Pri
 
     An exemple of product data in that situation is the imports opf MAP which, before the clustering process was like that:
 
-    ![MAP sem normalização]('https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/DB/Comexstat/graphs/fertilizers_imports0.png')
+    ![MAP sem normalização](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/DB/Comexstat/graphs/fertilizers_imports0.png)
 
     The central teorem wasn't be acomplished, caracterizing an unnormal distribuitions of weight in the imports of this product.
 
@@ -42,7 +42,7 @@ From my repository [Pricing-Fertilizer](https://andrecoutinhobueno.github.io/Pri
     * A most comomn MAP, applied in the soil widely.
 
 
-    ![MAP com normalização]('https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/DB/Comexstat/graphs/fertilizers_imports.png')
+    ![MAP com normalização](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/DB/Comexstat/graphs/fertilizers_imports.png)
 
 
 
