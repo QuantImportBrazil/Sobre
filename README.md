@@ -30,9 +30,9 @@ From my repository [Pricing-Fertilizer](https://andrecoutinhobueno.github.io/Pri
     
     Different products traded under the same international commerce code was identifyed, not only to know the individual comportament but also to reach better scores of predictions for each one.
 
-    ![MAP sem normalização]('/home/andre301267/git/Pricing-Fertilizer/DB/Comexstat/graphs/fertilizers_imports0.png')
-
     An exemple of product data in that situation is the imports opf MAP which, before the clustering process was like that:
+
+    ![MAP sem normalização]('https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/DB/Comexstat/graphs/fertilizers_imports0.png')
 
     The central teorem wasn't be acomplished, caracterizing an unnormal distribuitions of weight in the imports of this product.
 
@@ -40,6 +40,10 @@ From my repository [Pricing-Fertilizer](https://andrecoutinhobueno.github.io/Pri
     * low outliers which shiould be droped
     * A kind of MAP that is more expensive, with smaller imports, which correspond to high purified produtct used by foliar spray
     * A most comomn MAP, applied in the soil widely.
+
+
+    ![MAP com normalização]('https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/DB/Comexstat/graphs/fertilizers_imports.png')
+
 
 
 
