@@ -15,7 +15,7 @@ In the extraction of the main zipped file, the technique of reading in chunks wa
 
 [script](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/codes/extra%C3%A7%C3%A3o/Comexstat/IMP_NCM/Baixa_Extrai.ipynb)
 
-Conclusion
+Conclusion:  
 The technique of reading in chunks offers an efficient solution for handling large ZIP files, significantly reducing memory usage and improving the performance and scalability of data processing. This approach allows systems with limited memory to process large volumes of data efficiently and flexibly, avoiding the issues associated with loading entire files into memory.
 
 2. Clustering: Identifying different products traded under the same international commerce code.
