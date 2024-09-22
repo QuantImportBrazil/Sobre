@@ -7,20 +7,41 @@
 
 From my repository [Pricing-Fertilizer](https://andrecoutinhobueno.github.io/Pricing-Fertilizer/), here are some examples where I have applied machine learning and data science concepts:
 
-1. Big data handling:
 
-    Techinique: read in chuncks
 
-    In the extraction of the main zipped file, the technique of reading in chunks was used.
+1. Handling Big Data:
 
-    [script](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/codes/extra%C3%A7%C3%A3o/Comexstat/IMP_NCM/Baixa_Extrai.ipynb)
+    Technique: Reading in Chunks
 
-    In addition, another script was created so that updates only need to download the most recent part of the file, increasing processing speed.
+    During the extraction of the main zipped file, the technique of reading in chunks was employed.
+
+    [Script](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/codes/extra%C3%A7%C3%A3o/Comexstat/IMP_NCM/Baixa_Extrai.ipynb)
+
+    Additionally, another script was developed to ensure that updates only require downloading the most recent part of the file, thereby increasing processing speed.
 
     Conclusion:  
-    The technique of reading in chunks offers an efficient solution for handling large ZIP files, significantly reducing memory usage and improving the performance and scalability of data processing. This approach allows systems with limited memory to process large volumes of data efficiently and flexibly, avoiding the issues associated with loading entire files into memory.
+    The technique of reading in chunks provides an efficient solution for handling large ZIP files, significantly reducing memory usage and enhancing the performance and scalability of data processing. This approach enables systems with limited memory to process large volumes of data efficiently and flexibly, avoiding the issues associated with loading entire files into memory.  
 
-2. Clustering: Identifying different products traded under the same international commerce code.
+
+
+2. Normalize:
+
+    Techinique:Clustering
+    
+    Different products traded under the same international commerce code was identifyed, not only to know the individual comportament but also to reach better scores of predictions for each one.
+
+    ![MAP sem normalização]('/home/andre301267/git/Pricing-Fertilizer/DB/Comexstat/graphs/fertilizers_imports0.png')
+
+    An exemple of product data in that situation is the imports opf MAP which, before the clustering process was like that:
+
+    The central teorem wasn't be acomplished, caracterizing an unnormal distribuitions of weight in the imports of this product.
+
+    After clusterization, three groups are seen:
+    * low outliers which shiould be droped
+    * A kind of MAP that is more expensive, with smaller imports, which correspond to high purified produtct used by foliar spray
+    * A most comomn MAP, applied in the soil widely.
+
+
 
 3. Classification: Predicting which set of import characteristics will occur at a given time.
 
