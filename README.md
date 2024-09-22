@@ -13,6 +13,8 @@ Technique: Reading in Chunks
 
 During the extraction of the main zipped file, the technique of reading in chunks was employed.
 
+[tab]([DB/temp/file_info.md](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/DB/temp/file_info.md))
+
 [Script](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/codes/extra%C3%A7%C3%A3o/Comexstat/IMP_NCM/Baixa_Extrai.ipynb)
 
 
