@@ -29,7 +29,7 @@ Different products traded under the same international commerce code were identi
 
 An example of product data in this situation is the imports of MAP, which, before the clustering process, appeared as follows:
 
-![MAP without normalization](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/DB/Comexstat/graphs/fertilizers_imports0.png)
+![MAP without normalization](https://raw.githubusercontent.com/AndreCoutinhoBueno/Pricing-Fertilizer/refs/heads/main/DB/Comexstat/graphs/fertilizers_imports0.png)
 
 The central theorem was not accomplished, characterizing an abnormal distribution of weight in the imports of this product.
 
@@ -39,7 +39,7 @@ After clustering, three groups were identified:
 * A type of MAP that is more expensive, with smaller imports, corresponding to a highly purified product used for foliar spray
 * The most common MAP, widely applied in the soil.
 
-![MAP with normalization](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/DB/Comexstat/graphs/fertilizers_imports.png)
+![MAP with normalization](https://raw.githubusercontent.com/AndreCoutinhoBueno/Pricing-Fertilizer/refs/heads/main/DB/Comexstat/graphs/fertilizers_imports.png)
 
 
 ### Classification: 
