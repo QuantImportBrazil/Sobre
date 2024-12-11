@@ -1,51 +1,37 @@
-👋 Hi, I’m @AndreCoutinhoBueno, a data scientist with expertise in agronomy, particularly in the fertilizer market.  
-👀 I am interested in collaborating with individuals or companies on any data science projects.  
-🌱 I am currently learning about GitHub Pages.  
-📫 You can reach me at: andrecoutinhobueno@hotmail.com  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I love it!  
+👋 Hi, I’m @AndreCoutinhoBueno, a data scientist with expertise in agronomy, particularly within the fertilizer market.
+👀 I’m interested in collaborating with individuals or companies on data science projects.
+🌱 I’m currently exploring GitHub Pages.
+📫 Feel free to reach me at: andrecoutinhobueno@hotmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I love diving into complex datasets and discovering actionable insights!
 
-From my repository [Pricing-Fertilizer](https://andrecoutinhobueno.github.io/Pricing-Fertilizer/), here are some examples where I have applied machine learning and data science concepts:
-
-### Handling Big Data:
-
+Projects and Applications of Machine Learning in Data Science
+1. Handling Big Data
 Technique: Reading in Chunks
 
-During the extraction of the main zipped file, the technique of reading in chunks was employed.
+To process large zipped files, I implemented a chunk-reading technique to handle data efficiently.
 
-![tab](https://raw.githubusercontent.com/AndreCoutinhoBueno/Pricing-Fertilizer/refs/heads/main/DB/temp/file_info.png)
-
-[Script](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/codes/extra%C3%A7%C3%A3o/Comexstat/IMP_NCM/Baixa_Extrai.ipynb)
-
-
-Additionally, another script was developed to ensure that updates only require downloading the most recent part of the file, thereby increasing processing speed.
-
+A specialized script was developed to download only the latest file updates, improving overall processing speed.
 Conclusion:
-The technique of reading in chunks provides an efficient solution for handling large ZIP files, significantly reducing memory usage and enhancing the performance and scalability of data processing. This approach enables systems with limited memory to process large volumes of data efficiently and flexibly, avoiding the issues associated with loading entire files into memory.
+This chunk-reading method allows for efficient handling of large ZIP files, significantly reducing memory usage while enhancing performance and scalability. Systems with limited memory can process massive datasets flexibly and avoid memory overload by not loading entire files at once.
 
-### Normalization:
-
+2. Normalization
 Technique: Clustering
 
-Different products traded under the same international commerce code were identified, not only to understand their individual behavior but also to achieve better prediction scores for each one.
+Through clustering, I identified different products traded under the same international commerce code to better understand their behaviors and improve prediction accuracy.
 
-An example of product data in this situation is the imports of MAP, which, before the clustering process, appeared as follows:
+Example:
+For fertilizers imports, initial data showed abnormal distributions with uneven weights. After applying clustering, three distinct groups emerged:
 
-![MAP without normalization](https://raw.githubusercontent.com/AndreCoutinhoBueno/Pricing-Fertilizer/refs/heads/main/DB/Comexstat/graphs/fertilizers_imports0.png)
+Very low imports and outliers: Data points that were filtered out as irrelevant.
+High-purity MAP (smaller imports): A premium product used for foliar spraying.
+Standard MAP (common imports): Widely used as a soil fertilizer.
+This approach enabled a clearer segmentation of product data, improving prediction models and insights.
 
-The central theorem was not accomplished, characterizing an abnormal distribution of weight in the imports of this product.
+3. Classification
+Objective: Predicting the set of import characteristics likely to occur within a given timeframe.
 
-After clustering, three groups were identified:
+4. Regression
+Objective: Estimating quantities (weight or value) with the highest probability density while measuring dispersion around the predicted value.
 
-* Very low imports and lower outliers which should be dropped
-* A type of MAP that is more expensive, with smaller imports, corresponding to a highly purified product used for foliar spray
-* The most common MAP, widely applied in the soil.
-
-![MAP with normalization](https://raw.githubusercontent.com/AndreCoutinhoBueno/Pricing-Fertilizer/refs/heads/main/DB/Comexstat/graphs/fertilizers_imports.png)
-
-
-### Classification: 
-Predicting which set of import characteristics will occur at a given time.
-
-### Regression: 
-Determining the quantity, in weight or value, with the highest probability density, as well as the measure of dispersion around it.
+This structured approach demonstrates practical applications of machine learning techniques like clustering, classification, and regression to solve real-world challenges in the fertilizer market.
