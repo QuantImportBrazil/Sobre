@@ -30,8 +30,11 @@ Example:
 For fertilizers imports, initial data showed abnormal distributions with uneven weights. After applying clustering, three distinct groups emerged: 
  
 Very low imports and outliers: Data points that were filtered out as irrelevant. 
+
 High-purity MAP (smaller imports): A premium product used for foliar spraying.  
+
 Standard MAP (common imports): Widely used as a soil fertilizer. 
+
 This approach enabled a clearer segmentation of product data, improving prediction models and insights. 
  
 3. Classification 
