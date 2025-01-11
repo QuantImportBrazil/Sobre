@@ -2,7 +2,7 @@
 
 👀 I’m interested in collaborating with individuals or companies on data science projects. 
 
-🌱 I’m currently exploring GitHub Pages. 
+🌱 I'm currently learning and practicing parallel processing.
 
 📫 Feel free to reach me at: andrecoutinhobueno@hotmail.com 
 
