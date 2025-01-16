@@ -2,7 +2,7 @@
 
 👀 I’m interested in collaborating with individuals or companies on data science projects. 
 
-🌱 I'm currently learning and practicing parallel processing.
+🌱 I'm currently learning and practicing parallel processing and ARIMA models.
 
 📫 Feel free to reach me at: andrecoutinhobueno@hotmail.com 
 
