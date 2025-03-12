@@ -4,7 +4,7 @@
 
 🌱 I'm currently learning and practicing parallel processing and ARIMA models.
 
-📫 Feel free to reach me at: andrecoutinhobueno@hotmail.com 
+📫 Feel free to reach me at: andre.bueno@quantimport.com.br 
 
 😄 Pronouns: He/Him 
 
