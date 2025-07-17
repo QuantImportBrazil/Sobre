@@ -1,9 +1,10 @@
 # QuantImport  
-> Empreendimento iniciado pelo cientista de dados e agrônomo André Coutinho Bueno  
-> Saiba mais em [Linked in](https://www.linkedin.com/in/andre-coutinho-bueno/)  
-> Contato: andre.bueno@quantimport.com.br  
+. Aprendizado de máquina aplicado na previsão de mercado  
 
-# Previsão de Mercado
-. aprendizado de máquinas aplicado sobre múltiplos fatores  
-. intervalos de confiança estabelecidos  
+# Responsável: [André Coutinho Bueno](https://quantimportbrazil.github.io/Responsavel/)  
 . conexão e suporte ao cliente  
+. Contato: andre.bueno@quantimport.com.br  
+
+# A máquina  
+. Considera múltiplos fatores para fazer cada uma única previsão  
+. Excuta testes no passadao para determinar intervalos de confiança das reais previsões  
