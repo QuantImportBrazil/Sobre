@@ -3,7 +3,7 @@
 . Aprendizado de máquina aplicado na previsão de mercado  
 
 ### Responsável: [André Coutinho Bueno](https://quantimportbrazil.github.io/Responsavel/)  
-. conexão e suporte ao cliente  
+. Conexão e suporte ao cliente  
 . Contato: andre.bueno@quantimport.com.br  
 
 ### A máquina  
