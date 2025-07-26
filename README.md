@@ -1,13 +1,18 @@
-########### [QuantImport](https://quantimportbrazil.github.io/Sobre/) ###########  
+<header>
+    <h1><a href="https://quantimportbrazil.github.io/Sobre/">QuantImport</a></h1>
+</header>
 
-. Aprendizado de máquina aplicado na previsão de mercado  
+A QuantImport utiliza aprendizado de máquina para a previsão de mercado.  
 
-### Responsável: [André Coutinho Bueno](https://quantimportbrazil.github.io/Responsavel/)  
-. Conexão e suporte ao cliente  
-. Contato: andre.bueno@quantimport.com.br  
+Sobre Nós  
+Aplicamos machine learning avançado para prever os movimentos do mercado com precisão.
 
-### A máquina  
-. Considera múltiplos fatores para fazer cada uma única previsão  
-. Excuta testes no passadao para determinar intervalos de confiança das reais previsões  
+Nosso Especialista: [André Coutinho Bueno](https://quantimportbrazil.github.io/Responsavel/)  
+André garante forte conexão e suporte ao cliente.
+Contato: andre.bueno@quantimport.com.br
 
-### Versão Demo [clique aqui](https://quantimportbrazil.github.io/Demo/)
+Nossa Tecnologia  
+Nosso sistema proprietário considera múltiplos fatores para gerar previsões únicas. Ele executa testes extensivos em dados históricos para determinar intervalos de confiança para as previsões.
+
+Veja em Ação  
+Experimente a Demonstração [Aqui](https://quantimportbrazil.github.io/Demo/)
