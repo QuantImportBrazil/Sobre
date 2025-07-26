@@ -4,10 +4,8 @@
 
 ---
 
-A QuantImport usa **aprendizado de máquina** para a **previsão de mercado**.
-
 ## Sobre Nós
-Aplicamos **machine learning avançado** para prever os movimentos do mercado com precisão.
+Aplicamos **aprendizado de máquina** para a **previsão de mercado**.
 
 ---
 
