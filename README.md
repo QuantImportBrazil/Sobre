@@ -2,7 +2,7 @@
 
 ---
 
-Sou **André Coutinho Bueno**, Agrônomo experiente, e o Cientista de Dados por trás da **QuantImport**.
+Sou **André Coutinho Bueno**, Agrônomo experiente e o Cientista de Dados por trás da **QuantImport**.
 
 Na **QuantImport**, o **Aprendizado de Máquina (ML)** é aplicado para **quantificar os padrões das importações** de produtos para a agricultura brasileira, que *traders* e analistas buscam identificar. Nosso sistema processa e correlaciona as variáveis que as influenciam,  **substituindo o esforço manual** de análise. Isso resulta em **projeções mais precisas** do que métodos estatísticos tradicionais, otimizando o processo de decisão e gerando **redução significativa de custos operacionais**.
 
