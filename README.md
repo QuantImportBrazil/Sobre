@@ -1,41 +1,40 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> [QuantImport](https://quantimportbrazil.github.io/Sobre/)
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport
 
 ---
 
-Sou **André Coutinho Bueno**, agrônomo experiente e cientista de dados por trás da **QuantImport**.
+Sou **André Coutinho Bueno**, agrônomo com experiência e cientista de dados por trás da **QuantImport**.
 
-Na **QuantImport**, o **Aprendizado de Máquina (ML)** é aplicado para **quantificar os padrões das importações** de produtos para a agricultura brasileira que *traders* e analistas buscam identificar. Nosso sistema processa e correlaciona as variáveis que as influenciam,  **substituindo o esforço manual** de análise. Isso resulta em **projeções mais precisas** do que métodos estatísticos tradicionais, otimizando o processo de decisão e gerando **redução significativa de custos operacionais**.
+Na **QuantImport**, aplicamos Aprendizado de Máquina (ML) para quantificar os padrões de importações de produtos ligados à agricultura brasileira. Nossos modelos ajudam traders, analistas e gestores de cadeia de suprimentos a identificar tendências, riscos e oportunidades, fornecendo projeções acionáveis e transparentes.
 
 ---
 
 ## Estrutura do Modelo Preditivo
 
-O modelo é alimentado pela **integração de dados públicos e de mercado**, combinando a expertise em agronomia com o processamento de machine learning.
+O modelo é alimentado pela integração de dados públicos e de mercado, combinando conhecimento de agronomia com técnicas de machine learning para gerar projeções robustas.
 
-**Fontes de Dados Incluídas:**
+**Fontes de dados incluídas:**
 
-* **Comexstat (Governo Federal):** séries históricas de importação (fertilizantes, agroquímicos, máquinas, diesel) e exportação de produtos agrícolas.
-* **INMET (Governo Federal):** dados de variáveis climáticas relevantes para o planejamento de safra (ex.: chuvas).
-* **Dados de Mercado:** coleta e processamento de *spot prices* internacionais, que precede e influencia o volume da importação nacional.
+- **ComexStat (Governo Federal):** séries históricas de importação (fertilizantes, agroquímicos, máquinas, diesel) e exportação de produtos agrícolas.
+- **INMET (Governo Federal):** dados climáticos relevantes para planejamento de safra (ex.: precipitação, temperatura).
+- **Dados de mercado:** coleta e processamento de preços spot internacionais que antecedem e influenciam o volume de importação nacional.
 
-A união dessas fontes e o **conhecimento de domínio** (agronomia) resulta em projeções que **incorporam o contexto do mercado**. Essa arquitetura multivariada permite que o modelo se **autoajuste mais rapidamente a mudanças abruptas**—como *shocks* geopolíticos e de saúde pública—, superando a lentidão de resposta de modelos baseados apenas na extrapolação de séries temporais históricas.
+A união dessas fontes, aliada ao conhecimento de domínio (agronomia), resulta em projeções que incorporam o contexto do mercado. Essa arquitetura multivariada permite que o modelo aprenda relações entre variáveis econômicas, climáticas e comerciais e se atualize conforme novas observações são incorporadas.
 
 ---
 
 ## Veja o Modelo em Ação
 
-Transparência é fundamental. Veja a performance do nosso sistema e explore exemplos das projeções atualizadas que entregamos:
-
-* **Demonstração Interativa:** análise da performance do modelo e projeções em tempo real. [**Acesse a Demo**](https://quantimportbrazil.github.io/Demo/)
-* **Relatório de Exemplo (Projeção Total):** projeção de importação total para os próximos 12 meses. [**Ver Exemplo 1**](*Insira o Link Direto para o Relatório 1 Aqui*)
-* **Análise Setorial Detalhada:** projeções por tipo de nutriente (N, P ou K). [**Ver Exemplo 2**](*Insira o Link Direto para o Relatório 2 Aqui*)
+- **Demonstração Interativa:** projeções em tempo real. [Acesse a Demo](https://quantimportbrazil.github.io/Demo/)
 
 ---
 
 ## Contato Direto
 
-Se sua empresa busca transformar dados complexos em vantagem competitiva e otimizar o *supply chain*, entre em contato.
+Se sua empresa busca transformar dados complexos em vantagem competitiva e otimizar a cadeia de suprimentos, entre em contato:
 
-**André Coutinho Bueno**
-Cientista de Dados e Fundador
+**André Coutinho Bueno**  
+Cientista de Dados e Fundador  
 E-mail: andre.bueno@quantimport.com.br
+
+---
+Página finalizada. Aplique o padrão visual desta página às demais páginas que serão acessadas por links.
