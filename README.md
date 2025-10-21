@@ -37,4 +37,3 @@ Cientista de Dados e Fundador
 E-mail: andre.bueno@quantimport.com.br
 
 ---
-Página finalizada. Aplique o padrão visual desta página às demais páginas que serão acessadas por links.
