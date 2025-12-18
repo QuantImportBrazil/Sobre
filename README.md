@@ -10,13 +10,13 @@ Na **QuantImport**, aplicamos Aprendizado de Máquina (ML) para quantificar os p
 
 ## Estrutura do Modelo Preditivo
 
-O modelo é alimentado pela integração de dados públicos e de mercado, combinando conhecimento de agronomia com técnicas de machine learning para gerar projeções robustas.
+O modelo é alimentado pela integração de dados públicos e de mercado, combinando conhecimento de agronomia com técnicas de machine learning buscando gerar projeções robustas.
 
 **Fontes de dados incluídas:**
 
 - **ComexStat (Governo Federal):** séries históricas de importação (fertilizantes, agroquímicos, máquinas, diesel) e exportação de produtos agrícolas.
 - **INMET (Governo Federal):** dados climáticos relevantes para planejamento de safra (ex.: precipitação, temperatura).
-- **Dados de mercado:** coleta e processamento de preços spot internacionais que antecedem e influenciam o volume de importação nacional.
+- **Dados de mercado:** coleta e processamento de preços *spot* internacionais que antecedem e influenciam o volume de importação nacional.
 
 A união dessas fontes, aliada ao conhecimento de domínio (agronomia), resulta em projeções que incorporam o contexto do mercado. Essa arquitetura multivariada permite que o modelo aprenda relações entre variáveis econômicas, climáticas e comerciais e se atualize conforme novas observações são incorporadas.
 
@@ -24,7 +24,8 @@ A união dessas fontes, aliada ao conhecimento de domínio (agronomia), resulta 
 
 ## Veja o Modelo em Ação
 
-- **Demonstração Interativa:** projeções em tempo real. [Acesse a Demo](https://quantimportbrazil.github.io/Demo/)
+- **Demonstração:** Projeções dinâmicas com séries históricas atualizadas mensalmente.
+  - [🔗 Clique aqui para visualizar as Demos](https://quantimportbrazil.github.io/Demo/)
 
 ---
 
