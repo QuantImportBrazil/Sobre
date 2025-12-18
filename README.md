@@ -1,4 +1,5 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport 🎄✨  
+
 
 ---
 
