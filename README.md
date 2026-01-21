@@ -3,7 +3,7 @@
 
 ---
 
-#### Atualizado em 01/2026
+#### Atualizado em 1-2026
 
 ---
 
