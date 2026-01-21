@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Aumenta apenas o texto do README */
+.markdown-body {
+  font-size: 1.15rem !important;
+  line-height: 1.6 !important;
+}
