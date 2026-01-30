@@ -1,5 +1,4 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport 
-
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
 
 ---
 
@@ -7,39 +6,54 @@
 
 ---
 
-Sou **André Coutinho Bueno**, agrônomo e cientista de dados por trás da **QuantImport**.
+Sou **André Coutinho Bueno**, agrônomo e cientista de dados à frente da **QuantImport**.
 
-Na **QuantImport**, aplicamos Aprendizado de Máquina (ML) para quantificar os padrões de importações de produtos ligados à agricultura brasileira. Nossos modelos ajudam traders, analistas e gestores de cadeia de suprimentos a identificar tendências, riscos e oportunidades, fornecendo projeções úteis e transparentes.
+A **QuantImport** aplica *machine learning* para transformar dados públicos e de mercado em **projeções acionáveis** sobre importações e exportações ligadas à agricultura brasileira.  
+Nossos modelos ajudam **traders, analistas e gestores de supply chain** a antecipar movimentos, reduzir incertezas e tomar decisões com impacto real em logística, custos e capital.
+
+---
+
+## O que fazemos de diferente
+
+Não se trata apenas de prever volumes.  
+Trata-se de **traduzir dados complexos em decisões melhores**.
+
+Os modelos da QuantImport combinam:
+- visão agronômica,
+- inteligência de mercado,
+- e técnicas modernas de *machine learning*,
+
+para identificar **tendências, riscos e pontos de inflexão** que modelos tradicionais costumam ignorar.
 
 ---
 
 ## Estrutura do Modelo Preditivo
 
-O modelo é alimentado pela integração de dados públicos e de mercado, combinando conhecimento de agronomia com técnicas de machine learning buscando gerar projeções robustas.
+O modelo é alimentado por uma arquitetura multivariada que integra dados públicos e de mercado, permitindo projeções robustas e transparentes.
 
-**Fontes de dados incluídas:**
+**Principais fontes de dados:**
 
 - **ComexStat (Governo Federal):** séries históricas de importação (fertilizantes, agroquímicos, máquinas, diesel) e exportação de produtos agrícolas.
-- **INMET (Governo Federal):** dados climáticos relevantes para planejamento de safra (ex.: precipitação, temperatura).
-- **Dados de mercado:** coleta e processamento de preços *spot* internacionais que antecedem e influenciam o volume de importação nacional.
+- **INMET (Governo Federal):** dados climáticos relevantes para o planejamento de safra (precipitação, temperatura, entre outros).
+- **Dados de mercado:** preços *spot* internacionais que antecedem e influenciam decisões de importação no Brasil.
 
-A união dessas fontes, aliada ao conhecimento de domínio (agronomia), resulta em projeções que incorporam o contexto do mercado. Essa arquitetura multivariada permite que o modelo aprenda relações entre variáveis econômicas, climáticas e comerciais e se atualize conforme novas observações são incorporadas.
+Essa integração permite que o modelo aprenda relações entre variáveis econômicas, climáticas e comerciais, atualizando-se continuamente à medida que novas informações são incorporadas.
 
 ---
 
 ## Veja o Modelo em Ação
 
-- **Demonstração:** Projeções dinâmicas com séries históricas atualizadas mensalmente.
+- **Demonstrações interativas:** projeções dinâmicas com séries históricas atualizadas mensalmente.
   - [🔗 Clique aqui para visualizar as Demos](https://quantimportbrazil.github.io/Demo/)
 
 ---
 
 ## Contato Direto
 
-Se sua empresa busca transformar dados complexos em vantagem competitiva e otimizar a cadeia de suprimentos, entre em contato:
+Se sua empresa busca **reduzir incerteza, antecipar movimentos do mercado e ganhar eficiência logística**, vamos conversar.
 
 **André Coutinho Bueno**  
 Cientista de Dados e Fundador  
-E-mail: andre.bueno@quantimport.com.br
+📩 andre.bueno@quantimport.com.br
 
 ---
