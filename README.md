@@ -1,8 +1,5 @@
 # <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
 
----
-
-#### Atualizado em 1-2026
 
 ---
 
