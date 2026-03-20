@@ -6,6 +6,7 @@
 Sou **André Coutinho Bueno**, agrônomo e cientista de dados à frente da **QuantImport**.
 
 A QuantImport produz projeções acionáveis sobre importações e exportações do agronegócio brasileiro, integrando dados públicos e de mercado.  
+
 Nossos modelos ajudam **traders, analistas e gestores de supply chain** a antecipar movimentos, reduzir incertezas e tomar decisões com impacto real em logística, custos e capital.
 
 ---
