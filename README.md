@@ -7,7 +7,7 @@ Sou **André Coutinho Bueno**, agrônomo e cientista de dados à frente da **Qua
 
 A QuantImport produz projeções acionáveis sobre importações e exportações do agronegócio brasileiro, integrando dados públicos e de mercado.  
 
-Enquanto os dados oficiais mostram o passado, a QuantImport integra sinais do mês corrente, permitindo projeções atualizadas com frequência — inclusive diariamente.
+Enquanto os dados oficiais mostram o passado, a QuantImport integra sinais do mês corrente, permitindo projeções atualizadas com frequência — inclusive **diariamente**.
 
 ---
 
