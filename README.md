@@ -2,42 +2,42 @@
 ![Risk](https://img.shields.io/badge/Risk-Geopolitical%20Exposure-bd2d2d)
 
 ---
+### Apresentação: 
 
-Sou **André Coutinho Bueno**, agrônomo e cientista de dados à frente da **QuantImport**.
+Sou **André Coutinho Bueno**, agrônomo e cientista de dados à frente da **QuantImport**.  
 
-A QuantImport produz projeções acionáveis sobre importações e exportações do agronegócio brasileiro, integrando dados públicos e de mercado.  
-
-Enquanto os dados oficiais mostram o passado, a QuantImport integra sinais do mês corrente, permitindo projeções atualizadas com frequência — inclusive **diariamente**.
-
----
-
-## Modelo
-
-Os modelos da QuantImport combinam:
-
-- visão agronômica  
-- inteligência de mercado  
-- modelagem multivariada aplicada a séries econômicas, climáticas e comerciais  
+Ofereçemos previsões sobre comércio exterior do agronegócio brasileiro.  
 
 ---
 
-## Fontes de Dados
-
-**Principais fontes de dados:**
-
-- **ComexStat (Governo Federal):** séries históricas de importação (fertilizantes, agroquímicos, máquinas, diesel) e exportação de produtos agrícolas ([acessar base](https://comexstat.mdic.gov.br/))  
-- **INMET (Governo Federal):** dados climáticos relevantes para o planejamento de safra (precipitação, temperatura, entre outros) ([acessar dados](https://portal.inmet.gov.br/))  
-- **Dados de mercado:** preços e indicadores globais (commodities agrícolas, energia, câmbio e insumos estratégicos), que antecipam e refletem choques de oferta, custo e logística — com papel ampliado em períodos de instabilidade geopolítica 
-![Risk](https://img.shields.io/badge/Risk-Geopolitical%20Exposure-bd2d2d) ([ver indicadores](https://quantimportbrazil.github.io/indicators/))  
-
-Essa integração permite que o modelo aprenda relações entre variáveis econômicas, climáticas e comerciais, atualizando-se continuamente à medida que novas informações são incorporadas.
+### Base em múltiplas variáveis:
+  
+* Comérico exterior dos principais produtos ligados a agricultura   
+* Dados climatológicos  
+* Preços do momento e indicadores globais  
 
 ---
 
-## Veja o Modelo em Ação
+### Fontes dos Dados:
 
-- **Demonstrações interativas:** projeções dinâmicas com séries históricas atualizadas mensalmente  
-  - [🔗 Clique aqui para visualizar as Demos](https://quantimportbrazil.github.io/Demo/)
+* [ComexStat](https://comexstat.mdic.gov.br/)  
+* [INMET](https://portal.inmet.gov.br/)  
+* [yfinance](https://pypi.org/project/yfinance/)
+* [YCHARTS](https://ycharts.com/)
+* [TRADEECONOMICS](https://tradingeconomics.com/)   
+
+
+---  
+
+### Criação de cenários:  
+
+* Momento: ![Risk](https://img.shields.io/badge/Risk-Geopolitical%20Exposure-bd2d2d)
+  
+---
+
+### Veja o Modelo em Ação:  
+
+* [🔗 Clique aqui para visualizar as Demos](https://quantimportbrazil.github.io/demo/)
 
 ---
 
