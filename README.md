@@ -31,9 +31,9 @@ Ofereçemos **previsões** sobre o comércio exterior do agronegócio brasileiro
 
 ### Criação de cenários:  
 
-* Momento: ![Risk](https://img.shields.io/badge/Risk-Geopolitical%20Exposure-bd2d2d)
-  
----
+* Momento: [![Texto](https://img.shields.io/badge/Cenário-Hormuz%20fechado%20indefinidamente-bd2d2d)](https://quantimportbrazil.github.io/cenario/)
+
+---  
 
 ### Veja o Modelo em Ação:  
 
