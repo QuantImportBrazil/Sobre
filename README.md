@@ -6,7 +6,7 @@
 
 Sou **André Coutinho Bueno**, agrônomo e cientista de dados à frente da **QuantImport**.  
 
-Ofereçemos previsões sobre o comércio exterior do agronegócio brasileiro.  
+Ofereçemos **previsões** sobre o comércio exterior do agronegócio brasileiro.  
 
 ---
 
@@ -24,7 +24,7 @@ Ofereçemos previsões sobre o comércio exterior do agronegócio brasileiro.
 * [INMET](https://portal.inmet.gov.br/)  
 * [yfinance](https://pypi.org/project/yfinance/)
 * [YCHARTS](https://ycharts.com/)
-* [TRADEECONOMICS](https://tradingeconomics.com/)   
+* [TRADE ECONOMICS](https://tradingeconomics.com/)   
 
 
 ---  
