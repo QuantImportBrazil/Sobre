@@ -12,9 +12,9 @@ Ofereçemos previsões sobre o comércio exterior do agronegócio brasileiro.
 
 ### Base em múltiplas variáveis:
   
-* Comérico exterior dos principais produtos ligados a agricultura   
+* Comérico exterior de produtos agrícolas   
 * Dados climatológicos  
-* Preços do momento e indicadores globais  
+* Preços e indicadores globais  
 
 ---
 
